@@ -1,6 +1,6 @@
 class Solution {
 public:
-    long long count(int a, int b, int c, long long mid)
+        long long count(int a, int b, int c, long long mid)
 {
     long long ab = lcm(1LL * a, 1LL * b);
     long long ac = lcm(1LL * a, 1LL * c);
@@ -14,7 +14,7 @@ public:
 
     int nthUglyNumber(int n, int a, int b, int c) {
         long long start = 1;
-        long long end = 2000000000;
+        long long end = 1LL * min({a, b, c}) * n;
 
         while(start <= end)
         {
