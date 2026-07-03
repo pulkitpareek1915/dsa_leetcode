@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
@@ -48,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -60,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
