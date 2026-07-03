@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
+| [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
+## Stack
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+## Simulation
+|  |
+| ------- |
+| [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 <!---LeetCode Topics End-->
