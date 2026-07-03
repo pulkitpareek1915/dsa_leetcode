@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-nth-magical-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Breadth-First Search
 |  |
 | ------- |
