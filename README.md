@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
