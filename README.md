@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Breadth-First Search
 |  |
@@ -126,5 +127,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
