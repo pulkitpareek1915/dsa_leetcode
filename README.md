@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+## Enumeration
+|  |
+| ------- |
+| [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 <!---LeetCode Topics End-->
