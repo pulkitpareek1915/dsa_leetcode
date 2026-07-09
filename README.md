@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
