@@ -3,6 +3,8 @@ public:
     vector<int> findOriginalArray(vector<int>& changed) {
         map<int,int> map;
         int n=changed.size();
+        if(n%2==1) return {};
+        
         sort(changed.begin(),changed.end());
         vector<int> ans;
         for(int i=0;i<n;i++)
