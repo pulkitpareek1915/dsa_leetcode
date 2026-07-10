@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
