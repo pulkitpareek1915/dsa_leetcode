@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Greedy
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Math
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
