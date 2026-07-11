@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
