@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0053-maximum-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
