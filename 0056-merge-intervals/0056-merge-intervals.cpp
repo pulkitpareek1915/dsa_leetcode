@@ -14,16 +14,17 @@ public:
        {
             if(intervals[i][0]<=lastend)
             {
+                
                 lastend=max(intervals[i][1],lastend);
             }
             else{
                 ans.push_back({laststart,lastend});
                 laststart=intervals[i][0];
                 lastend=intervals[i][1];
+                
             }
-            
        } 
-       ans.push_back({laststart, lastend});
+       ans.push_back({laststart,lastend});
        return ans;
     }
 };
