@@ -18,9 +18,7 @@ public:
         vector<vector<int>> ans;
         while(!q.empty())
         {
-            int size=q.size();
-            for(int i=0;i<size;i++)
-            {
+            
                 TreeNode* node=q.front().first;
                 int vertical=q.front().second.first;
                 int level=q.front().second.second;
@@ -34,7 +32,7 @@ public:
                     q.push({node->right,{vertical+1,level+1}});
                 }
                 mpp[vertical][level].insert(node->val); 
-            }
+            
         }
         for (auto &p : mpp) 
         {
