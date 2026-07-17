@@ -51,19 +51,27 @@ public:
             q.pop();
 
             // Left child
-            if (!getline(ss, str, ',')) break;
-            if (str != "null") {
+            getline(ss, str, ',');
+            if(str=="null")
+            {
+                node->left=NULL;
+            }
+            else {
                 TreeNode* leftNode = new TreeNode(stoi(str));
                 node->left = leftNode;
                 q.push(leftNode);
             }
 
             // Right child
-            if (!getline(ss, str, ',')) break;
-            if (str != "null") {
-                TreeNode* rightNode = new TreeNode(stoi(str));
-                node->right = rightNode;
-                q.push(rightNode);
+            getline(ss, str, ',');
+            if(str=="null")
+            {
+                node->right=NULL;
+            }
+            else {
+                TreeNode* rightnode = new TreeNode(stoi(str));
+                node->right = rightnode;
+                q.push(rightnode);
             }
         }
 
