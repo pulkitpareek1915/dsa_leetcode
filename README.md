@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Combinatorics
 |  |
