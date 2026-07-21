@@ -17,11 +17,6 @@ public:
                 cha[i]=i+1;
             }
         }
-        for(int i=0;i<26;i++)
-        {
-            cout<<cha[i]<<" ";
-        }
-        
         for(int i=0;i<n;i++)
         {
             nums[i]=cha[s[i]-'a'];
