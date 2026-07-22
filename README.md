@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Depth-First Search
