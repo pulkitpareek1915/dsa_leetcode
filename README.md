@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
