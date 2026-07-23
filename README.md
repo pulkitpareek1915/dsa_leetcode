@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Counting
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3889-mirror-frequency-distance) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Combinatorics
 |  |
 | ------- |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1291-sequential-digits) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Bit Manipulation
 |  |
 | ------- |
