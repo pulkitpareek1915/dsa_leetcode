@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3870-count-commas-in-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3871-count-commas-in-range-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Breadth-First Search
 |  |
