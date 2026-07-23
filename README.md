@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3884-first-matching-character-from-both-ends](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3884-first-matching-character-from-both-ends](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Enumeration
 |  |
 | ------- |
