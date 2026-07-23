@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3889-mirror-frequency-distance) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
