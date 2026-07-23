@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 | [3895-count-digit-appearances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3895-count-digit-appearances) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Sorting
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3895-count-digit-appearances) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Breadth-First Search
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3884-first-matching-character-from-both-ends](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Enumeration
 |  |
 | ------- |
