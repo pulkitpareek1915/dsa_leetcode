@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Depth-First Search
