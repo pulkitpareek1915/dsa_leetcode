@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
+| [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 ## Counting
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0986-interval-list-intersections) |
+## Ordered Set
+|  |
+| ------- |
+| [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
 <!---LeetCode Topics End-->
