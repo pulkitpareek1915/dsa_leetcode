@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1291-sequential-digits) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Bit Manipulation
 |  |
 | ------- |
