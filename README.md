@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
+| [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
