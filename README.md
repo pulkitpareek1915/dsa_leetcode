@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0986-interval-list-intersections) |
+| [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Simulation
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3899-angles-of-a-triangle](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3899-angles-of-a-triangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
