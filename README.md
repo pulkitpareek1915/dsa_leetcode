@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
