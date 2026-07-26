@@ -41,9 +41,6 @@ public:
             }
              if(nx && ny)
                 return parent[nx] != parent[ny];
-
-            if(nx || ny)
-                return false;
            
         }
         return false;
