@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
