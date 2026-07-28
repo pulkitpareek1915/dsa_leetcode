@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
