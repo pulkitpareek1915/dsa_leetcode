@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
