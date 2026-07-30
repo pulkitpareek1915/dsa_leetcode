@@ -549,4 +549,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0183-customers-who-never-order) |
+| [0196-delete-duplicate-emails](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
