@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3834-merge-adjacent-equal-elements](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Memoization
 |  |
