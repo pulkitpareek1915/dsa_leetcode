@@ -14,7 +14,7 @@ public:
         }
        
         vector<int> ans(2*n);
-        stk.push(-1);
+        //stk.push(-1);
         for(int i=2*n-1;i>=0;i--)
         {
             int curr=num[i];
