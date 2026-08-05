@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1124-longest-well-performing-interval](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
