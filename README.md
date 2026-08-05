@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
+| [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3903-smallest-stable-index-i) |
