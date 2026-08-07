@@ -1,30 +1,29 @@
 class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
         int n=nums.size();
-        int left=0;
-        int right=1;
-        long long diff=0;
-        map<pair<int,int>, int> map;
-        while(left <=right &&right<n)
+        int target=0;
+        unordered_map<int,int> map;
+        int ans=0;
+        for(int i=0;i<n;i++)
         {
-            diff=abs(nums[right]-nums[left]);
-            if(diff==k)
+           map[nums[i]]++;
+        }
+        for(auto it:map)
+        {
+            target=it.first+k;
+            if(k==0)
             {
-                if(left!=right)
+                if(it.second>1)
                 {
-                    map[{nums[left],nums[right]}]=1;
+                    ans++;
                 }
             }
-            if(diff>k)
+           else  if(map.find(target)!=map.end())
             {
-                left++;
-            }
-            else {
-                right++;
+                ans++;
             }
         }
-        return map.size();
+        return ans;
     }
 };
