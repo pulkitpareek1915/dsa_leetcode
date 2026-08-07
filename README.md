@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0878-nth-magical-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
