@@ -19,7 +19,7 @@ public:
                     ans++;
                 }
             }
-           else  if(map.find(target)!=map.end())
+            else if(map.find(target)!=map.end())
             {
                 ans++;
             }
