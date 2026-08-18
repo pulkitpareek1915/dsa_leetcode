@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
 | [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0817-linked-list-components](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0817-linked-list-components) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
