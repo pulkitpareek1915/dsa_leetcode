@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
