@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0263-ugly-number) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
