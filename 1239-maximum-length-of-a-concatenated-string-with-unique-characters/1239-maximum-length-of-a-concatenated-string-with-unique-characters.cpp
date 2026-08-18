@@ -1,5 +1,6 @@
 class Solution {
 public:
+    unordered_map<string,int> mpp;
     bool hasduplicate(string temp, string s)
     {
         vector<int> freq(26,0);
@@ -26,6 +27,10 @@ public:
         }
         int pick=0;
         int notpick=0;
+        if(mpp.find(temp)!=mpp.end())
+        {
+            return mpp[temp];
+        }
         if(hasduplicate(temp,arr[index]))
         {
             notpick=solve(index+1,arr,temp,n);
@@ -34,11 +39,12 @@ public:
             pick=solve(index+1,arr,temp+arr[index],n);
             notpick=solve(index+1,arr,temp,n);
         }
-        return max(pick,notpick);
+        return mpp[temp]=max(pick,notpick);
     }
     int maxLength(vector<string>& arr) {
         int n=arr.size();
         string temp="";
+        mpp.clear();
         return solve(0,arr,temp,n);
     }
 };
