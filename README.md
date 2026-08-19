@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1109-corporate-flight-bookings](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1124-longest-well-performing-interval) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0878-nth-magical-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
