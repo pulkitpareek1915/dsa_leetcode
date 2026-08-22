@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 ## Backtracking
 |  |
