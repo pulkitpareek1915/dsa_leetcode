@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -699,11 +701,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
