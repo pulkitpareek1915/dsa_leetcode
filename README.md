@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Database
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -704,4 +708,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
