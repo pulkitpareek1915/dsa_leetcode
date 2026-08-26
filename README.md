@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 ## Database
 |  |
 | ------- |
@@ -713,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
