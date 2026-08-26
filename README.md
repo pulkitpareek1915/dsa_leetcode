@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0413-arithmetic-slices](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0413-arithmetic-slices) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Rolling Hash
