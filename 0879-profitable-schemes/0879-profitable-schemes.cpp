@@ -5,7 +5,7 @@ public:
     {
         if(index<0)
         {
-            return target==0;
+            return target<=0;
         }
         if(dp[index][target][maxinum]!=-1)
         {
