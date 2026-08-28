@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
+| [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
 ## Backtracking
 |  |
 | ------- |
