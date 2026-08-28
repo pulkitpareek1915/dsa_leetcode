@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
+| [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0879-profitable-schemes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0879-profitable-schemes) |
+| [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -737,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
