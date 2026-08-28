@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3676-count-bowl-subarrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3676-count-bowl-subarrays) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
 ## Greedy
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
