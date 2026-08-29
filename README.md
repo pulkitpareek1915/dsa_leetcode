@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0733-flood-fill) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0733-flood-fill) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
+| [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0994-rotting-oranges) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0879-profitable-schemes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
