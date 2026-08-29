@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0965-univalued-binary-tree) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0872-leaf-similar-trees) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
