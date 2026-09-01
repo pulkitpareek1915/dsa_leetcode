@@ -26,7 +26,7 @@ public:
     }
     int numWays(int steps, int arrLen) 
     {
-        int limit = min(arrLen, steps + 1);
+        int limit =  steps + 1;
         vector<vector<int>> dp(limit,vector<int>(steps+1,-1));
         return solve(0, steps, arrLen,dp); 
     }
