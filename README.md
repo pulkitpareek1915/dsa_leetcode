@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-nth-magical-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1201-ugly-number-iii) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Number Theory
 |  |
 | ------- |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2466-count-ways-to-build-good-strings](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2466-count-ways-to-build-good-strings) |
 | [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
