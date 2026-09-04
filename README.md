@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [1109-corporate-flight-bookings](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1124-longest-well-performing-interval](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
