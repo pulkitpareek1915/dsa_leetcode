@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0322-coin-change) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0289-game-of-life) |
 | [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0733-flood-fill) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
