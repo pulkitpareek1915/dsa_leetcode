@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2585-number-of-ways-to-earn-points](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2585-number-of-ways-to-earn-points) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1765-map-of-highest-peak](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1765-map-of-highest-peak) |
 | [2101-detonate-the-maximum-bombs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1791-find-center-of-star-graph](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2101-detonate-the-maximum-bombs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3310-remove-methods-from-project](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3310-remove-methods-from-project) |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1020-number-of-enclaves) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Queue
 |  |
@@ -635,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
 | ------- |
