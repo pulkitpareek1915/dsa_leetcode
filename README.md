@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2101-detonate-the-maximum-bombs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2140-solving-questions-with-brainpower](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
+| [2140-solving-questions-with-brainpower](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2305-fair-distribution-of-cookies](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2305-fair-distribution-of-cookies) |
 | [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
