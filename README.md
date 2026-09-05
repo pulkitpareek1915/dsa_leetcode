@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0319-bulb-switcher) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Knapsack Problem
 |  |
