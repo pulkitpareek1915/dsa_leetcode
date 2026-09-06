@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0189-rotate-array) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -730,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0397-integer-replacement) |
 | [2312-selling-pieces-of-wood](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2312-selling-pieces-of-wood) |
 ## Backtracking
@@ -835,4 +840,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
