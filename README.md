@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1755-closest-subsequence-sum) |
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3896-minimum-operations-to-transform-array-into-alternating-prime](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3896-minimum-operations-to-transform-array-into-alternating-prime) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 ## Math
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0264-ugly-number-ii) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3620-network-recovery-pathways) |
 | [3885-design-event-manager](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3885-design-event-manager) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2615-sum-of-distances](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2404-most-frequent-even-element) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3839-number-of-prefix-connected-groups](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3889-mirror-frequency-distance](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3889-mirror-frequency-distance) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
@@ -508,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2606-find-the-substring-with-maximum-cost](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2606-find-the-substring-with-maximum-cost) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3081-replace-question-marks-in-string-to-minimize-its-value](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3081-replace-question-marks-in-string-to-minimize-its-value) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3628-maximum-number-of-subsequences-after-one-inserting](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3628-maximum-number-of-subsequences-after-one-inserting) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
