@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0542-01-matrix) |
+| [0576-out-of-boundary-paths](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0576-out-of-boundary-paths) |
 | [0879-profitable-schemes](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/pulkitpareek1915/dsa_leetcode/tree/master/0918-maximum-sum-circular-subarray) |
